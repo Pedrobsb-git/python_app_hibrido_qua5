@@ -1,4 +1,7 @@
 # declaração de dicionário
+usuario = {}
+
+# entrada de dados
 usuario = {
     'nome': "Marcos Silva",
     'email': "marcossil@gmail.com",
